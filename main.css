@@ -1,0 +1,29 @@
+
+body {
+	margin: 0;
+}
+
+.header-container {
+	padding: 20px;
+	background-color: black;
+	width: 100%;
+	overflow: auto;
+	color: white;
+	text-align: center;
+}
+
+.header-image {
+	float: left;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.name {
+	font-size: 24px;
+	margin: 0;
+	padding: 30px 0 15px;
+}
+
+.contact-information{
+	margin: 0;
+}
